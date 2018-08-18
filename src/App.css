@@ -40,6 +40,16 @@ html{
   color:#02b3e4 !important;
 }
 
+.navbar-brand:before{
+  content:"</>";
+}
+
+.navbar-brand:hover:before{
+  content:"<ouch/>";
+  font-weight: bold;
+  text-transform: none;
+}
+
 .navbar-right li a{
   color:#02b3e4 !important;
   font-size: 1.2em;
@@ -1077,7 +1087,7 @@ textarea{
     width:90%;
   }
   .thumbnail{
-    height:32vh;
+    height:305px;
   }
 }
 
@@ -1100,6 +1110,9 @@ textarea{
   }
   .webdesigner{
     margin:20% auto 45px !important;
+  }
+  .thumbnail{
+    height:330px;
   }
 }
 
@@ -1131,6 +1144,7 @@ textarea{
   }
   .form{
     font-size: 2em;
+    margin-top:20vh
   }
   .form p{
     font-size: 21px;
@@ -1140,6 +1154,9 @@ textarea{
   }
   .footer a{
     font-size: 1.2em;
+  }
+  .thumbnail{
+    height:490px;
   }
 }
 

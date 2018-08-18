@@ -29,6 +29,7 @@ class About extends Component{
                                 <a target="_blank" rel="noopener noreferrer" href="https://behance.net/adithyabhat"><i className="fab fa-behance fa-2x animated pulse infinite"></i></a>
                                 <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/adithyabhat__/"><i className="fab fa-instagram fa-2x animated pulse infinite"></i></a>
                                 <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/Adithyabhat9"><i className="fab fa-twitter fa-2x animated pulse infinite"></i></a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://dribbble.com/AdithyaNR"><i className="fab fa-dribbble fa-2x animated pulse infinite"></i></a>
                             </div>
                             <a href={resume} className="resume">Download Resume</a>
                         </div>
