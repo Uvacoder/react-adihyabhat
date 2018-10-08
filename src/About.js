@@ -21,7 +21,7 @@ class About extends Component{
                             <h3 className="webdesigner">Web designer &amp; developer</h3>
                             <p className="about-p">Hey there! I'm Adithya NR.</p>
                             <p className="about-p">I specialize in Front-end Web Development and am experienced with all stages of the development cycle for dynamic web projects.</p>
-                            <p className="about-p">I freelance in my free time.I work on projects right from design phase to the development phase.</p>
+                            <p className="about-p">I freelance in my free time. I work on projects right from design phase to the development phase.</p>
                             <p className="about-p">This website is my personal/professional website and will house all my work.</p>
                             <div className="socials">
                                 <a target="_blank" rel="noopener noreferrer" href="https://github.com/AdithyaBhat17"><i className="fab fa-github fa-2x animated pulse infinite"></i></a>
